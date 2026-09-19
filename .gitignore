@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+venv/
+data/
+results_exp*/
+*.model*
+*.pickle
+*.pt
+*.pth
+
